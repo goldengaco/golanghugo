@@ -1,2 +1,2 @@
 # golanghugo
-proyecto golang framework hugo
+proyecto golang framework hugo 

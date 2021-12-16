@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://localhost/public2"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
